@@ -7,3 +7,5 @@
 --> yarn add date-fns
 
 --> yarn add json-server -D
+
+--> yarn add rc-slider
